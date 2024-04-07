@@ -10,7 +10,7 @@ public class Main {
 	
 	//main metodo
 	public static void main(String[] args) { 
-		
+		System.out.println("Este es un msje nuevo");
 		//NOS PIDEN QUE PARA EL ALUMNO ALAVAR FACUNDO SE REGISTRE LAS NOTAS FINALES DE 4 MATERIAS (10 EN TO2)
 		Alumno alumno = generarAlumno();
 		registrarNotas(alumno, 2);
